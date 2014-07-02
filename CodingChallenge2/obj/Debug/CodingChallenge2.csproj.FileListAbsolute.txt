@@ -1,0 +1,6 @@
+E:\Challenges\CodingChallenge2\CodingChallenge2\bin\Debug\CodingChallenge2.exe.config
+E:\Challenges\CodingChallenge2\CodingChallenge2\obj\Debug\CodingChallenge2.csprojResolveAssemblyReference.cache
+E:\Challenges\CodingChallenge2\CodingChallenge2\bin\Debug\CodingChallenge2.exe
+E:\Challenges\CodingChallenge2\CodingChallenge2\bin\Debug\CodingChallenge2.pdb
+E:\Challenges\CodingChallenge2\CodingChallenge2\obj\Debug\CodingChallenge2.exe
+E:\Challenges\CodingChallenge2\CodingChallenge2\obj\Debug\CodingChallenge2.pdb
