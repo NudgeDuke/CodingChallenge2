@@ -1,0 +1,45 @@
+
+<!-- saved from url=(0096)https://raw.githubusercontent.com/Softwire/VisualStudioSettings/master/MyProject.sln.DotSettings -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">&lt;wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;
+	&lt;s:Boolean x:Key="/Default/CodeEditing/Intellisense/CodeCompletion/AutoCompleteBasicCompletion/@EntryValue"&gt;True&lt;/s:Boolean&gt;
+	&lt;s:Boolean x:Key="/Default/CodeEditing/Intellisense/CodeCompletion/AutoCompleteImportCompletion/@EntryValue"&gt;True&lt;/s:Boolean&gt;
+	&lt;s:Boolean x:Key="/Default/CodeEditing/Intellisense/CodeCompletion/ExtensionMethodsInSmartCompletion/@EntryValue"&gt;True&lt;/s:Boolean&gt;
+	&lt;s:Boolean x:Key="/Default/CodeEditing/Intellisense/LookupWindow/ShowSignatures/@EntryValue"&gt;True&lt;/s:Boolean&gt;
+	&lt;s:Boolean x:Key="/Default/CodeEditing/Intellisense/LookupWindow/ShowSummary/@EntryValue"&gt;True&lt;/s:Boolean&gt;
+	&lt;s:Boolean x:Key="/Default/CodeInspection/ExcludedFiles/FileMasksToSkip/=_002A_002Eresx/@EntryIndexedValue"&gt;True&lt;/s:Boolean&gt;
+	&lt;s:String x:Key="/Default/CodeInspection/GeneratedCode/GeneratedFileMasks/=T4MVC_002Ecs/@EntryIndexedValue"&gt;T4MVC.cs&lt;/s:String&gt;
+	&lt;s:String x:Key="/Default/CodeInspection/GeneratedCode/GeneratedFileMasks/=_002A_002Ecss/@EntryIndexedValue"&gt;*.css&lt;/s:String&gt;
+	&lt;s:Boolean x:Key="/Default/CodeInspection/Highlighting/IdentifierHighlightingEnabled/@EntryValue"&gt;True&lt;/s:Boolean&gt;
+	&lt;s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=UnknownCssClass/@EntryIndexedValue"&gt;HINT&lt;/s:String&gt;
+	&lt;s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=UnusedParameter/@EntryIndexedValue"&gt;DO_NOT_SHOW&lt;/s:String&gt;
+	&lt;s:String x:Key="/Default/CodeStyle/CodeCleanup/Profiles/=Softwire_0020Cleanup/@EntryIndexedValue"&gt;&amp;lt;?xml version="1.0" encoding="utf-16"?&amp;gt;&amp;lt;Profile name="Softwire Cleanup"&amp;gt;&amp;lt;AspOptimizeRegisterDirectives&amp;gt;True&amp;lt;/AspOptimizeRegisterDirectives&amp;gt;&amp;lt;HtmlReformatCode&amp;gt;True&amp;lt;/HtmlReformatCode&amp;gt;&amp;lt;CSArrangeThisQualifier&amp;gt;True&amp;lt;/CSArrangeThisQualifier&amp;gt;&amp;lt;RemoveCodeRedundancies&amp;gt;True&amp;lt;/RemoveCodeRedundancies&amp;gt;&amp;lt;CSUseAutoProperty&amp;gt;True&amp;lt;/CSUseAutoProperty&amp;gt;&amp;lt;CSMakeFieldReadonly&amp;gt;True&amp;lt;/CSMakeFieldReadonly&amp;gt;&amp;lt;CSUseVar&amp;gt;&amp;lt;BehavourStyle&amp;gt;CAN_CHANGE_TO_IMPLICIT&amp;lt;/BehavourStyle&amp;gt;&amp;lt;LocalVariableStyle&amp;gt;ALWAYS_IMPLICIT&amp;lt;/LocalVariableStyle&amp;gt;&amp;lt;ForeachVariableStyle&amp;gt;ALWAYS_IMPLICIT&amp;lt;/ForeachVariableStyle&amp;gt;&amp;lt;/CSUseVar&amp;gt;&amp;lt;CSUpdateFileHeader&amp;gt;True&amp;lt;/CSUpdateFileHeader&amp;gt;&amp;lt;CSOptimizeUsings&amp;gt;&amp;lt;OptimizeUsings&amp;gt;True&amp;lt;/OptimizeUsings&amp;gt;&amp;lt;EmbraceInRegion&amp;gt;False&amp;lt;/EmbraceInRegion&amp;gt;&amp;lt;RegionName&amp;gt;&amp;lt;/RegionName&amp;gt;&amp;lt;/CSOptimizeUsings&amp;gt;&amp;lt;CSShortenReferences&amp;gt;True&amp;lt;/CSShortenReferences&amp;gt;&amp;lt;CSReformatCode&amp;gt;True&amp;lt;/CSReformatCode&amp;gt;&amp;lt;CSharpFormatDocComments&amp;gt;True&amp;lt;/CSharpFormatDocComments&amp;gt;&amp;lt;VBOptimizeImports&amp;gt;True&amp;lt;/VBOptimizeImports&amp;gt;&amp;lt;VBShortenReferences&amp;gt;True&amp;lt;/VBShortenReferences&amp;gt;&amp;lt;VBReformatCode&amp;gt;True&amp;lt;/VBReformatCode&amp;gt;&amp;lt;VBFormatDocComments&amp;gt;True&amp;lt;/VBFormatDocComments&amp;gt;&amp;lt;JsInsertSemicolon&amp;gt;True&amp;lt;/JsInsertSemicolon&amp;gt;&amp;lt;JsReformatCode&amp;gt;True&amp;lt;/JsReformatCode&amp;gt;&amp;lt;JsFormatDocComments&amp;gt;True&amp;lt;/JsFormatDocComments&amp;gt;&amp;lt;CssReformatCode&amp;gt;True&amp;lt;/CssReformatCode&amp;gt;&amp;lt;XMLReformatCode&amp;gt;True&amp;lt;/XMLReformatCode&amp;gt;&amp;lt;/Profile&amp;gt;&lt;/s:String&gt;
+	&lt;s:String x:Key="/Default/CodeStyle/CodeCleanup/SilentCleanupProfile/@EntryValue"&gt;Softwire Cleanup&lt;/s:String&gt;
+	&lt;s:String x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/EMPTY_BLOCK_STYLE/@EntryValue"&gt;TOGETHER_SAME_LINE&lt;/s:String&gt;
+	&lt;s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/RazorCSharpFormat/AlwaysUseEndOfLineBraceStyle/@EntryValue"&gt;True&lt;/s:Boolean&gt;
+	&lt;s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/SPACE_WITHIN_SINGLE_LINE_ARRAY_INITIALIZER_BRACES/@EntryValue"&gt;True&lt;/s:Boolean&gt;
+	&lt;s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/WRAP_LINES/@EntryValue"&gt;False&lt;/s:Boolean&gt;
+	&lt;s:Boolean x:Key="/Default/CodeStyle/CSharpUsing/AddImportsToDeepestScope/@EntryValue"&gt;True&lt;/s:Boolean&gt;
+	&lt;s:Boolean x:Key="/Default/CodeStyle/CSharpUsing/QualifiedUsingAtNestedScope/@EntryValue"&gt;True&lt;/s:Boolean&gt;
+	&lt;s:String x:Key="/Default/CodeStyle/Naming/CSharpNaming/PredefinedNamingRules/=MethodPropertyEvent/@EntryIndexedValue"&gt;&amp;lt;Policy Inspect="True" Prefix="" Suffix="" Style="AaBb"&amp;gt;&amp;lt;ExtraRule Prefix="" Suffix="" Style="Aa_bb" /&amp;gt;&amp;lt;/Policy&amp;gt;&lt;/s:String&gt;
+	&lt;s:String x:Key="/Default/CodeStyle/Naming/CSharpNaming/PredefinedNamingRules/=PrivateInstanceFields/@EntryIndexedValue"&gt;&amp;lt;Policy Inspect="True" Prefix="" Suffix="" Style="aaBb" /&amp;gt;&lt;/s:String&gt;
+	&lt;s:String x:Key="/Default/CodeStyle/Naming/CSharpNaming/PredefinedNamingRules/=PrivateStaticFields/@EntryIndexedValue"&gt;&amp;lt;Policy Inspect="True" Prefix="" Suffix="" Style="aaBb" /&amp;gt;&lt;/s:String&gt;
+	&lt;s:String x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/FORCE_IFELSE_BRACES_STYLE/@EntryValue"&gt;ALWAYS_ADD&lt;/s:String&gt;
+	&lt;s:String x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/FORCE_FOR_BRACES_STYLE/@EntryValue"&gt;ALWAYS_ADD&lt;/s:String&gt;
+	&lt;s:String x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/FORCE_FOREACH_BRACES_STYLE/@EntryValue"&gt;ALWAYS_ADD&lt;/s:String&gt;
+	&lt;s:String x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/FORCE_WHILE_BRACES_STYLE/@EntryValue"&gt;ALWAYS_ADD&lt;/s:String&gt;
+	&lt;s:String x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/FORCE_USING_BRACES_STYLE/@EntryValue"&gt;ALWAYS_ADD&lt;/s:String&gt;
+	&lt;s:String x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/FORCE_FIXED_BRACES_STYLE/@EntryValue"&gt;ALWAYS_ADD&lt;/s:String&gt;
+	&lt;s:Int64 x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/KEEP_BLANK_LINES_IN_DECLARATIONS/@EntryValue"&gt;1&lt;/s:Int64&gt;
+	&lt;s:Int64 x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/KEEP_BLANK_LINES_IN_CODE/@EntryValue"&gt;1&lt;/s:Int64&gt;
+	&lt;s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/PLACE_SIMPLE_ACCESSOR_ATTRIBUTE_ON_SAME_LINE/@EntryValue"&gt;False&lt;/s:Boolean&gt;
+	&lt;s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/PLACE_FIELD_ATTRIBUTE_ON_SAME_LINE/@EntryValue"&gt;False&lt;/s:Boolean&gt;
+	&lt;s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/SPACE_BEFORE_TYPEOF_PARENTHESES/@EntryValue"&gt;False&lt;/s:Boolean&gt;
+	&lt;s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/SPACE_AFTER_TYPECAST_PARENTHESES/@EntryValue"&gt;False&lt;/s:Boolean&gt;
+	&lt;s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/ALIGN_MULTILINE_PARAMETER/@EntryValue"&gt;True&lt;/s:Boolean&gt;
+	&lt;s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/ALIGN_MULTILINE_CALLS_CHAIN/@EntryValue"&gt;True&lt;/s:Boolean&gt;
+	&lt;s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/ALIGN_MULTILINE_ARRAY_AND_OBJECT_INITIALIZER/@EntryValue"&gt;True&lt;/s:Boolean&gt;
+	&lt;s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/SPACE_AROUND_MULTIPLICATIVE_OP/@EntryValue"&gt;True&lt;/s:Boolean&gt;
+	&lt;s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/SPACE_BEFORE_SIZEOF_PARENTHESES/@EntryValue"&gt;False&lt;/s:Boolean&gt;
+	&lt;s:String x:Key="/Default/CodeStyle/Naming/JavaScriptNaming/UserRules/=JS_005FPARAMETER/@EntryIndexedValue"&gt;&amp;lt;Policy Inspect="True" Prefix="" Suffix="" Style="aaBb"&amp;gt;&amp;lt;ExtraRule Prefix="" Suffix="" Style="AaBb" /&amp;gt;&amp;lt;/Policy&amp;gt;&lt;/s:String&gt;
+	&lt;s:Boolean x:Key="/Default/CodeStyle/RazorCodeStyle/PreferQualifiedReference/@EntryValue"&gt;False&lt;/s:Boolean&gt;
+	&lt;s:Boolean x:Key="/Default/Environment/SettingsMigration/IsMigratorApplied/=JetBrains_002EReSharper_002EPsi_002ECSharp_002ECodeStyle_002ESettingsUpgrade_002EMigrateBlankLinesAroundFieldToBlankLinesAroundProperty/@EntryIndexedValue"&gt;True&lt;/s:Boolean&gt;&lt;/wpf:ResourceDictionary&gt;</pre></body></html>
