@@ -1,13 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text.RegularExpressions;
-
-namespace CodingChallenge2
+﻿namespace CodingChallenge2
 {
+  using System;
+  using System.Collections.Generic;
+  using System.Text.RegularExpressions;
+
   internal class Counter
   {
     private readonly Dictionary<String, int> dictionary;
-
+    private Regex regex;
+    private readonly int frequency;
+    private readonly string text;
 
     public Counter(int frequency, string text)
     {
@@ -17,11 +19,6 @@ namespace CodingChallenge2
       DefineRegex();
     }
 
-    private Regex regex { get; set; }
-    private String tlsPattern { get; set; }
-    private int frequency { get; set; }
-    private string text { get; set; }
-
     public void CountTls()
     {
       FillDictionary();
@@ -30,16 +27,16 @@ namespace CodingChallenge2
 
     private void DefineRegex()
     {
-      tlsPattern = "(?=[a-z]{3})";
+      const String tlsPattern = "(?=[a-z]{3})";
       regex = new Regex(tlsPattern, RegexOptions.IgnoreCase);
     }
 
     private void FillDictionary()
     {
-      Match m = regex.Match(text);
-      while (m.Success)
+      var match = regex.Match(text);
+      while (match.Success)
       {
-        String tls = text.Substring(m.Index, 3);
+        var tls = text.Substring(match.Index, 3).ToLower();
         if (dictionary.ContainsKey(tls))
         {
           dictionary[tls] = dictionary[tls] + 1;
@@ -48,7 +45,7 @@ namespace CodingChallenge2
         {
           dictionary.Add(tls, 1);
         }
-        m = m.NextMatch();
+        match = match.NextMatch();
       }
     }
 
